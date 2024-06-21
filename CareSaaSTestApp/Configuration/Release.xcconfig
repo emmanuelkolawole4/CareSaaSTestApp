@@ -1,0 +1,14 @@
+//
+//  Release.xcconfig
+//  CareSaaSTestApp
+//
+//  Created by MacBook on 6/16/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = CareSaaS
+APP_ICON = AppIcon
+BUNDLE_ID = com.folahanmi.caresaas
+BASE_URL = https:/$()/api.staging.caresaas.co.uk/caresaas/v1/services/

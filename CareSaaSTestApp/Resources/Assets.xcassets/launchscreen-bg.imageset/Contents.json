@@ -1,6 +1,7 @@
 {
-  "colors" : [
+  "images" : [
     {
+      "filename" : "launchscreen-bg.png",
       "idiom" : "universal"
     }
   ],
